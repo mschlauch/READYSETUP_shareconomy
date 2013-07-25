@@ -1,0 +1,14 @@
+name = Advanced Text Formatter
+description = "Provides an additional formatter for text field, text area and text format."
+core = 7.x
+package = Fields
+
+dependencies[] = text
+dependencies[] = filter
+
+; Information added by drupal.org packaging script on 2013-07-03
+version = "7.x-1.2"
+core = "7.x"
+project = "advanced_text_formatter"
+datestamp = "1372863653"
+

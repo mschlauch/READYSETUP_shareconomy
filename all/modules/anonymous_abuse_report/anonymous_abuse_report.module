@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Anonymous abuse report feature.
+ */
+
+include_once 'anonymous_abuse_report.features.inc';

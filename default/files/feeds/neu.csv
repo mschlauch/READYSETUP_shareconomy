@@ -1,0 +1,8 @@
+Title,addresstext,Body,Category,Name,Email,geoinformation
+a,"Verona, Italy",,nature,,,POINT (12.1036289 54.0755259)
+b,"Bolzano, Italy",,social,,,POINT (11.3547582 46.4982953)
+c,"Supe, Juliaca, Peru",,nature,,,
+d,"Paris, France","dd
+",,,micha@t-online.de,POINT (14.2674541 51.31857)
+e,"Rostock, Germany","this is a good airbrush tree
+",,,micha@t-online.de,POINT (12.1004289 54.0834186)
